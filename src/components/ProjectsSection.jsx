@@ -30,6 +30,36 @@ const projects = [
         demoUrl: "#",
         githubUrl: "#",
     },
+    {
+        id: 4,
+        title: "URL-Shorten",
+        description:
+            "A URL Shortening website which shortens long URLs",
+        image: "/projects/ss4.png",
+        tags: ["HTML", "CSS", "Javascript"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/Honeyk29/URL_Shortener",
+    },
+    {
+        id: 5,
+        title: "My-Todos",
+        description:
+            "A Basic Todolist",
+        image: "/projects/ss5.png",
+        tags: ["React"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/Honeyk29/My-Todos",
+    },
+    {
+        id: 6,
+        title: "Netflix Clone",
+        description:
+            "Netflix website Landing Page",
+        image: "/projects/ss6.png",
+        tags: ["HTML","CSS","Javascript"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/Honeyk29/Netflix-Clone",
+    },
 ];
 
 export const ProjectsSection = () => {
