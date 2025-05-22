@@ -8,7 +8,7 @@ const projects = [
         image: "/projects/ss1.png",
         tags: ["React", "TailwindCSS", "Express.js","MongoDB"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Honeyk29/Money-Manager",
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ const projects = [
         image: "/projects/ss2.png",
         tags: ["React"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Honeyk29/Honey-Portfolio",
     },
     {
         id: 3,
